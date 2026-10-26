@@ -1,5 +1,7 @@
 # Traffic State Prediction with LSTM Networks
 
+[🇮🇷 توضیحات فارسی](README-fa.md)
+
 This project explores using LSTM-based recurrent neural networks to predict the
 next traffic state (queue lengths / signal phase configuration) at a network of
 intersections, as a step toward smarter, adaptive traffic light control.
