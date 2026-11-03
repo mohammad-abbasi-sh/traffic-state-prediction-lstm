@@ -6,7 +6,8 @@ Originally written/run in Google Colab. The drive.mount() call below is only
 needed if you're running this in Colab with data stored on Google Drive -
 otherwise just point DIR_PATH at a local folder and skip it.
 
-Author: Mohammad Abbasishahkoo
+Author: Mohammad Abbasi
+GitHub: https://github.com/mohammad-abbasi-sh
 Course project - Artificial Intelligence, Spring 2021
 """
 
