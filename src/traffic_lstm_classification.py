@@ -7,7 +7,8 @@ window of past state+action pairs, instead of regressing the raw next state.
 
 Originally written/run in Google Colab - drive.mount() is only needed there.
 
-Author: Mohammad Abbasishahkoo
+Author: Mohammad Abbasi
+GitHub: https://github.com/mohammad-abbasi-sh
 Course project - Artificial Intelligence, Spring 2021
 """
 
