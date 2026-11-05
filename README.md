@@ -1,5 +1,7 @@
 # Traffic State Prediction with LSTM Networks
 
+![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg) ![TensorFlow 2.0+](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [🇮🇷 توضیحات فارسی](README-fa.md)
 
 This project explores using LSTM-based recurrent neural networks to predict the
