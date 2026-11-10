@@ -21,13 +21,13 @@ import os
 import math
 from random import randint
 
-# keras
-from keras.models import Sequential
-from keras.layers import Dense
-from keras.layers import LSTM , Flatten
-from keras.callbacks import ReduceLROnPlateau, EarlyStopping , ModelCheckpoint
-from keras.models import load_model
-from keras import optimizers
+# tensorflow.keras
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import LSTM , Flatten
+from tensorflow.keras.callbacks import ReduceLROnPlateau, EarlyStopping , ModelCheckpoint
+from tensorflow.keras.models import load_model
+from tensorflow.keras import optimizers
 
 # sklearn
 from sklearn.preprocessing import MinMaxScaler
@@ -129,7 +129,7 @@ print()
 print("x_test", testX.shape)
 print("y_test", testY.shape)
 
-from keras.optimizers import SGD,Adam
+from tensorflow.keras.optimizers import SGD,Adam
 # create Model
 num_features = trainX.shape[2]
 model_output = trainY.shape[1]

@@ -3,4 +3,3 @@ pandas
 scikit-learn
 matplotlib
 tensorflow>=2.0
-keras
